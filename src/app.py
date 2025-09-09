@@ -57,6 +57,7 @@ activities = {
     "max_participants": 10,
     "participants": []
 }
+}  # Closing brace for the activities dictionary
 
 
 @app.get("/")
